@@ -57,12 +57,12 @@ pip install -r requirements.txt
 
 jupyter notebook HousePricePrediction.ipynb
 
-##📂 Dataset
+## 📂 Dataset
 
 California Housing Dataset
  (built-in with scikit-learn)
 
-##✨ Future Improvements
+## ✨ Future Improvements
 
 Try advanced models (RandomForest, Gradient Boosting, XGBoost)
 
@@ -70,7 +70,7 @@ Hyperparameter tuning
 
 Add geospatial features (distance to coast, city proximity)
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 V Om Keshava Reddy
 📌 B.Tech CSE (AI & ML), SRM University
