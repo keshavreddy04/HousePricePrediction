@@ -1,10 +1,10 @@
-##🏡 House Price Prediction (California Housing Dataset)
+## 🏡 House Price Prediction (California Housing Dataset)
 
 This project predicts house prices in California using machine learning models.
 It uses the California Housing dataset from Scikit-learn and demonstrates an end-to-end ML workflow:
 data preprocessing, feature engineering, visualization, model training, and evaluation.
 
-##📊 Features
+## 📊 Features
 
 Exploratory Data Analysis (EDA) with Seaborn & Matplotlib
 
@@ -22,7 +22,7 @@ Regression modeling (Linear Regression, etc.)
 
 Model evaluation with RMSE and R² score
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python 🐍
 
@@ -32,7 +32,7 @@ Matplotlib, Seaborn
 
 Scikit-learn
 
-##📈 Results
+## 📈 Results
 
 R² Score: ~0.60 (Linear Regression)
 
@@ -40,20 +40,20 @@ RMSE: ~0.73
 
 💡 With advanced models (RandomForest, XGBoost, GradientBoosting), accuracy can be improved further.
 
-🚀 How to Run
+## 🚀 How to Run
 
-Clone the repository:
+### Clone the repository:
 
 git clone https://github.com/your-username/House-Price-Prediction.git
 cd House-Price-Prediction
 
 
-##Install dependencies:
+### Install dependencies:
 
 pip install -r requirements.txt
 
 
-Open the Jupyter notebook:
+### Open the Jupyter notebook:
 
 jupyter notebook HousePricePrediction.ipynb
 
