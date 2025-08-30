@@ -44,7 +44,7 @@ RMSE: ~0.73
 
 ### Clone the repository:
 
-git clone https://github.com/your-username/House-Price-Prediction.git
+git clone https://github.com/keshavreddy04/House-Price-Prediction.git
 cd House-Price-Prediction
 
 
@@ -74,4 +74,4 @@ Add geospatial features (distance to coast, city proximity)
 
 V Om Keshava Reddy
 📌 B.Tech CSE (AI & ML), SRM University
-🔗 LinkedIn| GitHub| LeetCode
+🔗 [LinkedIn](https://www.linkedin.com/in/v-om-keshava-reddy-792478349/)| GitHub| [LeetCode](https://leetcode.com/u/keshav_30/)
